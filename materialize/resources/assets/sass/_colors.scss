@@ -1,0 +1,9 @@
+$bg:              #ffffff;
+$gray:            #343838;
+$primary-color:   #5097b5;
+$success-color:   #62c462;
+$error-color:     #ba403b;
+$secondary-color: #76c6e8;
+
+$primary-color-light: lighten($primary-color, 15%) !default;
+$primary-color-dark: darken($primary-color, 15%) !default;
